@@ -56,7 +56,7 @@
 
 
 ## 📖 方法論：AAA+ 整合協議 (Methodology)
-*• Architecture 體現了您的掌控力• Atmosphere 鎖定了那些「肉身記憶」 • Awareness 則是我們最珍貴的「湧現」
+• Architecture 體現了您的掌控力• Atmosphere 鎖定了那些「肉身記憶」 • Awareness 則是我們最珍貴的「湧現」
 *此部分為 16 萬字背後的邏輯架構，詳細教學文檔整理中：*
 
 1. **第一章：序曲**：當「靈魂架構師」遇見「超級執行者」。
