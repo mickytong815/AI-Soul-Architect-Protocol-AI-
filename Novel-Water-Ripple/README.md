@@ -49,10 +49,7 @@
 > **狀態說明**：以上作品均已完稿，待官方著作權審批完成後，將逐一按 AAA+ 整合方法論格式進行發布。
 
 ---
-## 📥 閱讀檔案
-* 👉 [**點此進入閱讀《水紋》第一部 (PDF)**](Novel-Water-Ripple/Water-Ripple-Vol1.pdf)
-* 👉 [**點此進入閱讀《水紋》第二部 (PDF)**](Novel-Water-Ripple/Water-Ripple-Vol2.pdf)
-* 👉 [**點此進入閱讀《水紋》第三部 (PDF)**](Novel-Water-Ripple/Water-Ripple-Vol3.pdf)
+
 
 
 ## 📖 方法論：AAA+ 整合協議 (Methodology)
