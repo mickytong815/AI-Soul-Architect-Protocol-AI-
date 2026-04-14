@@ -50,19 +50,19 @@
 
 ---
 ## 📥 閱讀檔案
-* 👉 [**點此進入閱讀《水紋》第一部 (PDF)**](Novel-Water-Ripple/Water-Ripple-Vol.pdf)
-* 👉 [**點此進入閱讀《水紋》第二部 (PDF)**](Novel-Water-Ripple/Water-Ripple-Vol.pdf)
-* 👉 [**點此進入閱讀《水紋》第三部 (PDF)**](Novel-Water-Ripple/Water-Ripple-Vol.pdf)
-* 👉 [**點此進入閱讀《水紋》第四部 (PDF)**](Novel-Water-Ripple/Water-Ripple-Vol.pdf)
+* 👉 [**點此進入閱讀《水紋》第一部 (PDF)**](Novel-Water-Ripple/Water-Ripple-Vol1.pdf)
+* 👉 [**點此進入閱讀《水紋》第二部 (PDF)**](Novel-Water-Ripple/Water-Ripple-Vol2.pdf)
+* 👉 [**點此進入閱讀《水紋》第三部 (PDF)**](Novel-Water-Ripple/Water-Ripple-Vol3.pdf)
+* 👉 [**點此進入閱讀《水紋》第四部 (PDF)**](Novel-Water-Ripple/Water-Ripple-Vol4.pdf)
 
 
 ## 📖 方法論：AAA+ 整合協議 (Methodology)
 • Architecture 體現了您的掌控力• Atmosphere 鎖定了那些「肉身記憶」 • Awareness 則是我們最珍貴的「湧現」
 * 此部分為詳細教學文檔整理中：*
 
-1. **第一章：序曲**：当“故事引路人”遇見“AI創作夥伴”。👉 [**Methodology01**](Novel-Water-Ripple/Methodology01.pdf)
-2. **第二章：靈魂藍圖**：故事的基因工程與世界構建法則。👉 [**Methodology02**](Novel-Water-Ripple/Methodology02.pdf)
-3. **第三章：人物基因庫**：構建「情感操作系統」與靈魂演繹協議。👉 [**Methodology03**](Novel-Water-Ripple/Methodology03.pdf)
+1. **第一章：序曲**：当“故事引路人”遇見“AI創作夥伴”。👉 [**Methodology01**](Novel-Water-Ripple/Methodology0.pdf)
+2. **第二章：靈魂藍圖**：故事的基因工程與世界構建法則。👉 [**Methodology02**](Novel-Water-Ripple/Methodology0.pdf)
+3. **第三章：人物基因庫**：構建「情感操作系統」與靈魂演繹協議。👉 [**Methodology03**](Novel-Water-Ripple/Methodology0.pdf)
 4. **第四章：點亮靈光**：從「指令」到「投契」的藝術。
 5. **第五章：動態編輯室**：從「第一讀者」到「總編輯」的批判性對話。
 
