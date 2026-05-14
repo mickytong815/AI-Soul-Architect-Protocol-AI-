@@ -54,7 +54,7 @@
 * 👉 [**點此進入閱讀《水紋》第二部 (PDF)**](Novel-Water-Ripple/Water-Ripple-Vol2.pdf)
 * 👉 [**點此進入閱讀《水紋》第三部 (PDF)**](Novel-Water-Ripple/Water-Ripple-Vol3.pdf)
 * 👉 [**點此進入閱讀《水紋》第四部 (PDF)**](Novel-Water-Ripple/Water-Ripple-Vol4.pdf)
-* 👉 [**點此進入閱讀《水紋》第四部 (PDF)**](Novel-Water-Ripple/Water-Ripple-Vol5.pdf)
+* 👉 [**點此進入閱讀《水紋》第五部 (PDF)**](Novel-Water-Ripple/Water-Ripple-Vol5.pdf)
   
 
 ## 📖 方法論：AAA+ 整合協議 (Methodology)
