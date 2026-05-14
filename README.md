@@ -23,7 +23,7 @@
 * * **第二部**：[《水紋》第二部] —— **国作登字-2026-A-00059337**
 * * **第三部**：[《水紋》第三部] —— **国作登字-2026-A-00058698**
 * * **第四部**：[《水紋》第四部] —— **国作登字-2026-A-00060450**
-* * **第五部**：[作品名稱] —— **国作登字-2026-A-XXXXXXXX**
+* * **第五部**：[《水紋》第四部] —— **国作登字-2026-A-00078890**
 * **【聲明】**：本系列五部作品構成一個不可分割的完整邏輯系統。嚴禁任何未經授權的拆解、引用或 AI 模型訓練。
 * **授權協議**：採用 CC BY-NC-ND 4.0 國際協議。
 
@@ -54,7 +54,8 @@
 * 👉 [**點此進入閱讀《水紋》第二部 (PDF)**](Novel-Water-Ripple/Water-Ripple-Vol2.pdf)
 * 👉 [**點此進入閱讀《水紋》第三部 (PDF)**](Novel-Water-Ripple/Water-Ripple-Vol3.pdf)
 * 👉 [**點此進入閱讀《水紋》第四部 (PDF)**](Novel-Water-Ripple/Water-Ripple-Vol4.pdf)
-
+* 👉 [**點此進入閱讀《水紋》第四部 (PDF)**](Novel-Water-Ripple/Water-Ripple-Vol5.pdf)
+  
 
 ## 📖 方法論：AAA+ 整合協議 (Methodology)
 • Architecture 體現了您的掌控力• Atmosphere 鎖定了那些「肉身記憶」 • Awareness 則是我們最珍貴的「湧現」
